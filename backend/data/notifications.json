@@ -1,0 +1,132 @@
+[
+  {
+    "id": "cmmeo2v6u2282e80d8203c87b",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "type": "INFO",
+    "title": "Beneficiary registered: Ramesh Kumar",
+    "body": "Pension ID PEN001234 — ACTIVE",
+    "isRead": true,
+    "readAt": "2026-03-06T09:03:12.486Z",
+    "metadata": {
+      "pensionId": "PEN001234"
+    },
+    "createdAt": "2026-03-06T01:04:33.326Z"
+  },
+  {
+    "id": "cmmeo2v6v161e01787b168566",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "type": "INFO",
+    "title": "Beneficiary registered: Savitri Devi",
+    "body": "Pension ID PEN001235 — ACTIVE",
+    "isRead": true,
+    "readAt": "2026-03-06T09:03:12.487Z",
+    "metadata": {
+      "pensionId": "PEN001235"
+    },
+    "createdAt": "2026-02-28T09:30:21.420Z"
+  },
+  {
+    "id": "cmmeo2v6xe3bfe02e28459431",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "type": "FRAUD_ALERT",
+    "title": "🚨 Fraud alert: Mohan Lal",
+    "body": "Pension ID PEN001230 — DECEASED",
+    "isRead": true,
+    "readAt": "2026-03-06T09:20:24.205Z",
+    "metadata": {
+      "pensionId": "PEN001230"
+    },
+    "createdAt": "2026-03-01T20:00:28.281Z"
+  },
+  {
+    "id": "cmmeo2v6y5bdc062e7112f1b5",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "type": "FRAUD_ALERT",
+    "title": "🚨 Fraud alert: Geeta Singh",
+    "body": "Pension ID PEN001231 — FRAUD_FLAGGED",
+    "isRead": true,
+    "readAt": "2026-03-06T09:03:48.626Z",
+    "metadata": {
+      "pensionId": "PEN001231"
+    },
+    "createdAt": "2026-03-05T07:33:07.129Z"
+  },
+  {
+    "id": "cmmeo2v6z7b3012ceb3f8b974",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "type": "INFO",
+    "title": "Beneficiary registered: Abdul Rahman",
+    "body": "Pension ID PEN001245 — ACTIVE",
+    "isRead": true,
+    "readAt": "2026-03-06T09:03:12.491Z",
+    "metadata": {
+      "pensionId": "PEN001245"
+    },
+    "createdAt": "2026-03-04T20:21:41.385Z"
+  },
+  {
+    "id": "cmmeo2v7033391a19a804aace",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "type": "FRAUD_ALERT",
+    "title": "🚨 Fraud alert: Priya Sharma",
+    "body": "Pension ID PEN001255 — PAYMENT_STOPPED",
+    "isRead": true,
+    "readAt": "2026-03-06T09:20:22.814Z",
+    "metadata": {
+      "pensionId": "PEN001255"
+    },
+    "createdAt": "2026-03-01T10:39:54.143Z"
+  },
+  {
+    "id": "cmmeo2v71e15143e04464fdde",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "type": "INFO",
+    "title": "Beneficiary registered: Suresh Patel",
+    "body": "Pension ID PEN001265 — SUSPENDED",
+    "isRead": true,
+    "readAt": "2026-03-06T09:03:12.493Z",
+    "metadata": {
+      "pensionId": "PEN001265"
+    },
+    "createdAt": "2026-02-28T07:08:11.598Z"
+  },
+  {
+    "id": "cmmeo2v727544403f3359d532",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "type": "INFO",
+    "title": "Beneficiary registered: Kamala Bai",
+    "body": "Pension ID PEN001236 — ACTIVE",
+    "isRead": true,
+    "readAt": "2026-03-06T09:03:12.494Z",
+    "metadata": {
+      "pensionId": "PEN001236"
+    },
+    "createdAt": "2026-02-27T12:25:09.164Z"
+  },
+  {
+    "id": "cmmeo2v72bdfbd39f0052be2d",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "type": "INFO",
+    "title": "Beneficiary registered: Rajan Nair",
+    "body": "Pension ID PEN001237 — ACTIVE",
+    "isRead": true,
+    "readAt": "2026-03-06T09:03:12.494Z",
+    "metadata": {
+      "pensionId": "PEN001237"
+    },
+    "createdAt": "2026-03-01T22:09:31.771Z"
+  },
+  {
+    "id": "cmmeo2v750592f66c9d26cf02",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "type": "FRAUD_ALERT",
+    "title": "🚨 Fraud alert: Meena Kumari",
+    "body": "Pension ID PEN001238 — FRAUD_FLAGGED",
+    "isRead": true,
+    "readAt": "2026-03-06T09:03:52.739Z",
+    "metadata": {
+      "pensionId": "PEN001238"
+    },
+    "createdAt": "2026-03-05T02:30:52.733Z"
+  }
+]

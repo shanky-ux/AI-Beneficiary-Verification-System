@@ -1,0 +1,632 @@
+[
+  {
+    "id": "cmmeo32qu2a645984ff725d5e",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "beneficiaryId": null,
+    "action": "LOGIN",
+    "entity": "user",
+    "entityId": "cmmeo2v097973fad7f3af3b31",
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "POST",
+      "path": "/api/v1/auth/login"
+    },
+    "createdAt": "2026-03-06T09:03:22.278Z"
+  },
+  {
+    "id": "cmmeo3fjf07f4bc238d858444",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "beneficiaryId": null,
+    "action": "LOGIN",
+    "entity": "user",
+    "entityId": "cmmeo2v097973fad7f3af3b31",
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "POST",
+      "path": "/api/v1/auth/login"
+    },
+    "createdAt": "2026-03-06T09:03:38.859Z"
+  },
+  {
+    "id": "cmmeo3h5zfe8e9a05021f2eca",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "beneficiaryId": null,
+    "action": "VIEW",
+    "entity": "beneficiary",
+    "entityId": null,
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "GET",
+      "path": "/api/v1/beneficiaries?page=1&limit=15"
+    },
+    "createdAt": "2026-03-06T09:03:40.967Z"
+  },
+  {
+    "id": "cmmeo43ddcbe7beddf1eb3244",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "beneficiaryId": null,
+    "action": "VIEW",
+    "entity": "beneficiary",
+    "entityId": null,
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "GET",
+      "path": "/api/v1/beneficiaries?page=1&limit=15"
+    },
+    "createdAt": "2026-03-06T09:04:09.745Z"
+  },
+  {
+    "id": "cmmeo45lbaa3124693a5bd706",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "beneficiaryId": null,
+    "action": "VIEW",
+    "entity": "beneficiary",
+    "entityId": null,
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "GET",
+      "path": "/api/v1/beneficiaries?page=1&limit=15&search=v"
+    },
+    "createdAt": "2026-03-06T09:04:12.623Z"
+  },
+  {
+    "id": "cmmeo467c08353fd3b37f6a60",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "beneficiaryId": null,
+    "action": "VIEW",
+    "entity": "beneficiary",
+    "entityId": null,
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "GET",
+      "path": "/api/v1/beneficiaries?page=1&limit=15"
+    },
+    "createdAt": "2026-03-06T09:04:13.416Z"
+  },
+  {
+    "id": "cmmeo7ukjcbbf88066dbbf159",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "beneficiaryId": "cmmeo7ukgf895887411a9d9f9",
+    "action": "CREATE",
+    "entity": "beneficiary",
+    "entityId": "cmmeo7ukgf895887411a9d9f9",
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "POST",
+      "path": "/api/v1/beneficiaries"
+    },
+    "createdAt": "2026-03-06T09:07:04.963Z"
+  },
+  {
+    "id": "cmmeo7ul2f924cd234fd59052",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "beneficiaryId": null,
+    "action": "VIEW",
+    "entity": "beneficiary",
+    "entityId": null,
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "GET",
+      "path": "/api/v1/beneficiaries?page=1&limit=15"
+    },
+    "createdAt": "2026-03-06T09:07:04.982Z"
+  },
+  {
+    "id": "cmmeo87tsd867df8530194e45",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "beneficiaryId": null,
+    "action": "VIEW",
+    "entity": "beneficiary",
+    "entityId": null,
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "GET",
+      "path": "/api/v1/beneficiaries?page=1&limit=15"
+    },
+    "createdAt": "2026-03-06T09:07:22.144Z"
+  },
+  {
+    "id": "cmmeo88y982053433581cc564",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "beneficiaryId": "cmmeo7ukgf895887411a9d9f9",
+    "action": "VERIFICATION_RUN",
+    "entity": "fraud_case",
+    "entityId": "cmmeo88xy10218c7e70c95444",
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "POST",
+      "path": "/api/v1/fraud/check/cmmeo7ukgf895887411a9d9f9"
+    },
+    "createdAt": "2026-03-06T09:07:23.601Z"
+  },
+  {
+    "id": "cmmeo88yl04357e91e2a8c66d",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "beneficiaryId": null,
+    "action": "VIEW",
+    "entity": "beneficiary",
+    "entityId": null,
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "GET",
+      "path": "/api/v1/beneficiaries?page=1&limit=15"
+    },
+    "createdAt": "2026-03-06T09:07:23.613Z"
+  },
+  {
+    "id": "cmmeo8b3c3485852d66d33fec",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "beneficiaryId": "cmmeo7ukgf895887411a9d9f9",
+    "action": "VERIFICATION_RUN",
+    "entity": "fraud_case",
+    "entityId": "cmmeo8b37b5408c559a498d31",
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "POST",
+      "path": "/api/v1/fraud/check/cmmeo7ukgf895887411a9d9f9"
+    },
+    "createdAt": "2026-03-06T09:07:26.376Z"
+  },
+  {
+    "id": "cmmeo8b3z9e2435f2e1074bdb",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "beneficiaryId": null,
+    "action": "VIEW",
+    "entity": "beneficiary",
+    "entityId": null,
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "GET",
+      "path": "/api/v1/beneficiaries?page=1&limit=15"
+    },
+    "createdAt": "2026-03-06T09:07:26.399Z"
+  },
+  {
+    "id": "cmmeo8meq7a35305eda3e228e",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "beneficiaryId": null,
+    "action": "VIEW",
+    "entity": "beneficiary",
+    "entityId": null,
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "GET",
+      "path": "/api/v1/beneficiaries?page=1&limit=15"
+    },
+    "createdAt": "2026-03-06T09:07:41.042Z"
+  },
+  {
+    "id": "cmmeo8wz95d5153d956dd9370",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "beneficiaryId": null,
+    "action": "VIEW",
+    "entity": "beneficiary",
+    "entityId": null,
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "GET",
+      "path": "/api/v1/beneficiaries?page=1&limit=15"
+    },
+    "createdAt": "2026-03-06T09:07:54.741Z"
+  },
+  {
+    "id": "cmmeo91u19e9bbc6f859bff86",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "beneficiaryId": null,
+    "action": "VIEW",
+    "entity": "beneficiary",
+    "entityId": null,
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "GET",
+      "path": "/api/v1/beneficiaries?page=1&limit=15"
+    },
+    "createdAt": "2026-03-06T09:08:01.033Z"
+  },
+  {
+    "id": "cmmeobthh9566e447d41eff09",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "beneficiaryId": "cmmeobthe263cc4f1c1c3ce60",
+    "action": "CREATE",
+    "entity": "beneficiary",
+    "entityId": "cmmeobthe263cc4f1c1c3ce60",
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "POST",
+      "path": "/api/v1/beneficiaries"
+    },
+    "createdAt": "2026-03-06T09:10:10.182Z"
+  },
+  {
+    "id": "cmmeobti2bd8715733683fbc9",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "beneficiaryId": null,
+    "action": "VIEW",
+    "entity": "beneficiary",
+    "entityId": null,
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "GET",
+      "path": "/api/v1/beneficiaries?page=1&limit=15"
+    },
+    "createdAt": "2026-03-06T09:10:10.202Z"
+  },
+  {
+    "id": "cmmeocgx40fbbec6c23abd5a2",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "beneficiaryId": null,
+    "action": "VIEW",
+    "entity": "beneficiary",
+    "entityId": null,
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "GET",
+      "path": "/api/v1/beneficiaries?page=1&limit=15"
+    },
+    "createdAt": "2026-03-06T09:10:40.552Z"
+  },
+  {
+    "id": "cmmeocwx20bb322188410f9e3",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "beneficiaryId": null,
+    "action": "VIEW",
+    "entity": "beneficiary",
+    "entityId": null,
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "GET",
+      "path": "/api/v1/beneficiaries?page=1&limit=15"
+    },
+    "createdAt": "2026-03-06T09:11:01.286Z"
+  },
+  {
+    "id": "cmmeolvw0928a62d601e084f6",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "beneficiaryId": null,
+    "action": "LOGIN",
+    "entity": "user",
+    "entityId": "cmmeo2v097973fad7f3af3b31",
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "POST",
+      "path": "/api/v1/auth/login"
+    },
+    "createdAt": "2026-03-06T09:17:59.856Z"
+  },
+  {
+    "id": "cmmeomaks0d5959807c31a3ca",
+    "userId": "cmmeo2v0aabab5f26ef26ef18",
+    "beneficiaryId": null,
+    "action": "LOGIN",
+    "entity": "user",
+    "entityId": "cmmeo2v0aabab5f26ef26ef18",
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "POST",
+      "path": "/api/v1/auth/login"
+    },
+    "createdAt": "2026-03-06T09:18:18.892Z"
+  },
+  {
+    "id": "cmmeomf8l382570a75705e85c",
+    "userId": "cmmeo2v0aabab5f26ef26ef18",
+    "beneficiaryId": null,
+    "action": "VIEW",
+    "entity": "beneficiary",
+    "entityId": null,
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "GET",
+      "path": "/api/v1/beneficiaries?page=1&limit=15"
+    },
+    "createdAt": "2026-03-06T09:18:24.933Z"
+  },
+  {
+    "id": "cmmeomw348d0c67149b0c50be",
+    "userId": "cmmeo2v0aabab5f26ef26ef18",
+    "beneficiaryId": "cmmeo7ukgf895887411a9d9f9",
+    "action": "UPDATE",
+    "entity": "fraud_case",
+    "entityId": "cmmeo8b37b5408c559a498d31",
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "PATCH",
+      "path": "/api/v1/fraud/cases/cmmeo8b37b5408c559a498d31"
+    },
+    "createdAt": "2026-03-06T09:18:46.768Z"
+  },
+  {
+    "id": "cmmeonbkmc118223302bcbc03",
+    "userId": "cmmeo2v0aabab5f26ef26ef18",
+    "beneficiaryId": null,
+    "action": "VIEW",
+    "entity": "beneficiary",
+    "entityId": null,
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "GET",
+      "path": "/api/v1/beneficiaries?page=1&limit=15"
+    },
+    "createdAt": "2026-03-06T09:19:06.838Z"
+  },
+  {
+    "id": "cmmeoneya0928f2b18931cd53",
+    "userId": "cmmeo2v0aabab5f26ef26ef18",
+    "beneficiaryId": "cmmeo2v6pdbb173761a9dd556",
+    "action": "VERIFICATION_RUN",
+    "entity": "fraud_case",
+    "entityId": "cmmeoney6dd786fd61174ed99",
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "POST",
+      "path": "/api/v1/fraud/check/cmmeo2v6pdbb173761a9dd556"
+    },
+    "createdAt": "2026-03-06T09:19:11.218Z"
+  },
+  {
+    "id": "cmmeonezv5a73077b6967aad3",
+    "userId": "cmmeo2v0aabab5f26ef26ef18",
+    "beneficiaryId": null,
+    "action": "VIEW",
+    "entity": "beneficiary",
+    "entityId": null,
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "GET",
+      "path": "/api/v1/beneficiaries?page=1&limit=15"
+    },
+    "createdAt": "2026-03-06T09:19:11.275Z"
+  },
+  {
+    "id": "cmmeongf1a3022c94415adf65",
+    "userId": "cmmeo2v0aabab5f26ef26ef18",
+    "beneficiaryId": "cmmeo2v6uaa3239957f197d82",
+    "action": "VERIFICATION_RUN",
+    "entity": "fraud_case",
+    "entityId": "cmmeongevbed3140f4ea2de4b",
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "POST",
+      "path": "/api/v1/fraud/check/cmmeo2v6uaa3239957f197d82"
+    },
+    "createdAt": "2026-03-06T09:19:13.117Z"
+  },
+  {
+    "id": "cmmeongfu8bccb7e8fa000605",
+    "userId": "cmmeo2v0aabab5f26ef26ef18",
+    "beneficiaryId": null,
+    "action": "VIEW",
+    "entity": "beneficiary",
+    "entityId": null,
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "GET",
+      "path": "/api/v1/beneficiaries?page=1&limit=15"
+    },
+    "createdAt": "2026-03-06T09:19:13.146Z"
+  },
+  {
+    "id": "cmmeongym97c4c49ea010b021",
+    "userId": "cmmeo2v0aabab5f26ef26ef18",
+    "beneficiaryId": "cmmeo2v6uaa3239957f197d82",
+    "action": "VERIFICATION_RUN",
+    "entity": "fraud_case",
+    "entityId": "cmmeongyi2df808f39597ed9d",
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "POST",
+      "path": "/api/v1/fraud/check/cmmeo2v6uaa3239957f197d82"
+    },
+    "createdAt": "2026-03-06T09:19:13.822Z"
+  },
+  {
+    "id": "cmmeongz2f651a10e7dcab07f",
+    "userId": "cmmeo2v0aabab5f26ef26ef18",
+    "beneficiaryId": null,
+    "action": "VIEW",
+    "entity": "beneficiary",
+    "entityId": null,
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "GET",
+      "path": "/api/v1/beneficiaries?page=1&limit=15"
+    },
+    "createdAt": "2026-03-06T09:19:13.838Z"
+  },
+  {
+    "id": "cmmeonh835c20e4d862f962c4",
+    "userId": "cmmeo2v0aabab5f26ef26ef18",
+    "beneficiaryId": "cmmeo2v6uaa3239957f197d82",
+    "action": "VERIFICATION_RUN",
+    "entity": "fraud_case",
+    "entityId": "cmmeonh7y53a461b2ac6cda79",
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "POST",
+      "path": "/api/v1/fraud/check/cmmeo2v6uaa3239957f197d82"
+    },
+    "createdAt": "2026-03-06T09:19:14.163Z"
+  },
+  {
+    "id": "cmmeonh8h85202e5b1231f3b3",
+    "userId": "cmmeo2v0aabab5f26ef26ef18",
+    "beneficiaryId": null,
+    "action": "VIEW",
+    "entity": "beneficiary",
+    "entityId": null,
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "GET",
+      "path": "/api/v1/beneficiaries?page=1&limit=15"
+    },
+    "createdAt": "2026-03-06T09:19:14.177Z"
+  },
+  {
+    "id": "cmmeonhhb8a5fe608724d9e14",
+    "userId": "cmmeo2v0aabab5f26ef26ef18",
+    "beneficiaryId": "cmmeo2v6uaa3239957f197d82",
+    "action": "VERIFICATION_RUN",
+    "entity": "fraud_case",
+    "entityId": "cmmeonhh7fbc9f2ebd96c95b2",
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "POST",
+      "path": "/api/v1/fraud/check/cmmeo2v6uaa3239957f197d82"
+    },
+    "createdAt": "2026-03-06T09:19:14.495Z"
+  },
+  {
+    "id": "cmmeonhhr4a978d3c25aaedcb",
+    "userId": "cmmeo2v0aabab5f26ef26ef18",
+    "beneficiaryId": null,
+    "action": "VIEW",
+    "entity": "beneficiary",
+    "entityId": null,
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "GET",
+      "path": "/api/v1/beneficiaries?page=1&limit=15"
+    },
+    "createdAt": "2026-03-06T09:19:14.511Z"
+  },
+  {
+    "id": "cmmeonhrne39ecbd4054f6289",
+    "userId": "cmmeo2v0aabab5f26ef26ef18",
+    "beneficiaryId": "cmmeo2v6uaa3239957f197d82",
+    "action": "VERIFICATION_RUN",
+    "entity": "fraud_case",
+    "entityId": "cmmeonhrh701b57b3defae9e7",
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "POST",
+      "path": "/api/v1/fraud/check/cmmeo2v6uaa3239957f197d82"
+    },
+    "createdAt": "2026-03-06T09:19:14.867Z"
+  },
+  {
+    "id": "cmmeonhul6e0d07f895b39923",
+    "userId": "cmmeo2v0aabab5f26ef26ef18",
+    "beneficiaryId": null,
+    "action": "VIEW",
+    "entity": "beneficiary",
+    "entityId": null,
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "GET",
+      "path": "/api/v1/beneficiaries?page=1&limit=15"
+    },
+    "createdAt": "2026-03-06T09:19:14.973Z"
+  },
+  {
+    "id": "cmmeonswl62e068bf30d30348",
+    "userId": "cmmeo2v0aabab5f26ef26ef18",
+    "beneficiaryId": null,
+    "action": "VIEW",
+    "entity": "beneficiary",
+    "entityId": null,
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "GET",
+      "path": "/api/v1/beneficiaries?page=1&limit=15"
+    },
+    "createdAt": "2026-03-06T09:19:29.302Z"
+  },
+  {
+    "id": "cmmeooute72e613091299878b",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "beneficiaryId": null,
+    "action": "LOGIN",
+    "entity": "user",
+    "entityId": "cmmeo2v097973fad7f3af3b31",
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "POST",
+      "path": "/api/v1/auth/login"
+    },
+    "createdAt": "2026-03-06T09:20:18.435Z"
+  },
+  {
+    "id": "cmmeop3zn16dd09aa2b5041b8",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "beneficiaryId": null,
+    "action": "VIEW",
+    "entity": "beneficiary",
+    "entityId": null,
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "GET",
+      "path": "/api/v1/beneficiaries?page=1&limit=15"
+    },
+    "createdAt": "2026-03-06T09:20:30.324Z"
+  },
+  {
+    "id": "cmmeop7ie791c40900e3c6a82",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "beneficiaryId": null,
+    "action": "VIEW",
+    "entity": "beneficiary",
+    "entityId": null,
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "GET",
+      "path": "/api/v1/beneficiaries?page=1&limit=15&status=ACTIVE"
+    },
+    "createdAt": "2026-03-06T09:20:34.886Z"
+  },
+  {
+    "id": "cmmeophu4bbe6d44830d4a34c",
+    "userId": "cmmeo2v097973fad7f3af3b31",
+    "beneficiaryId": null,
+    "action": "VIEW",
+    "entity": "beneficiary",
+    "entityId": null,
+    "ipAddress": "127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "metadata": {
+      "method": "GET",
+      "path": "/api/v1/beneficiaries?page=1&limit=15&status=ACTIVE"
+    },
+    "createdAt": "2026-03-06T09:20:48.268Z"
+  }
+]

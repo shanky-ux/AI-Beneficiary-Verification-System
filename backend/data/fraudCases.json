@@ -1,0 +1,510 @@
+[
+  {
+    "id": "cmmeo2v6xb84254d6fd50eebf",
+    "beneficiaryId": "cmmeo2v6veeb1532e44e2220c",
+    "assignedToId": "cmmeo2v097973fad7f3af3b31",
+    "severity": "CRITICAL",
+    "status": "OPEN",
+    "fraudScore": 95,
+    "triggers": [
+      {
+        "ruleId": "DEATH_CONFIRMED",
+        "name": "Death Record Found",
+        "score": 40,
+        "detail": "Confirmed deceased in civil death registry"
+      },
+      {
+        "ruleId": "LIFE_CERT_EXPIRED",
+        "name": "Life Certificate Expired",
+        "score": 25,
+        "detail": "Life certificate expired and not renewed"
+      },
+      {
+        "ruleId": "AADHAAR_UNVERIFIED",
+        "name": "Aadhaar Not Verified",
+        "score": 20,
+        "detail": "Aadhaar OTP verification not completed"
+      },
+      {
+        "ruleId": "VERIFICATION_OVERDUE",
+        "name": "Verification Overdue",
+        "score": 10,
+        "detail": "Last verification was 999 days ago"
+      }
+    ],
+    "autoActionTaken": false,
+    "resolutionNote": null,
+    "resolvedAt": null,
+    "createdAt": "2026-02-10T12:37:24.775Z",
+    "updatedAt": "2026-03-06T09:03:12.489Z"
+  },
+  {
+    "id": "cmmeo2v6yc956c488bcf65c5d",
+    "beneficiaryId": "cmmeo2v6x10e4bac476df96db",
+    "assignedToId": "cmmeo2v097973fad7f3af3b31",
+    "severity": "MEDIUM",
+    "status": "OPEN",
+    "fraudScore": 55,
+    "triggers": [
+      {
+        "ruleId": "LIFE_CERT_EXPIRED",
+        "name": "Life Certificate Expired",
+        "score": 25,
+        "detail": "Life certificate expired and not renewed"
+      },
+      {
+        "ruleId": "AADHAAR_UNVERIFIED",
+        "name": "Aadhaar Not Verified",
+        "score": 20,
+        "detail": "Aadhaar OTP verification not completed"
+      },
+      {
+        "ruleId": "VERIFICATION_OVERDUE",
+        "name": "Verification Overdue",
+        "score": 10,
+        "detail": "Last verification was 999 days ago"
+      }
+    ],
+    "autoActionTaken": false,
+    "resolutionNote": null,
+    "resolvedAt": null,
+    "createdAt": "2026-02-05T05:07:12.595Z",
+    "updatedAt": "2026-03-06T09:03:12.490Z"
+  },
+  {
+    "id": "cmmeo2v70ebec6a3af07ca587",
+    "beneficiaryId": "cmmeo2v6z8f28a2115b28033d",
+    "assignedToId": "cmmeo2v097973fad7f3af3b31",
+    "severity": "MEDIUM",
+    "status": "OPEN",
+    "fraudScore": 55,
+    "triggers": [
+      {
+        "ruleId": "LIFE_CERT_EXPIRED",
+        "name": "Life Certificate Expired",
+        "score": 25,
+        "detail": "Life certificate expired and not renewed"
+      },
+      {
+        "ruleId": "AADHAAR_UNVERIFIED",
+        "name": "Aadhaar Not Verified",
+        "score": 20,
+        "detail": "Aadhaar OTP verification not completed"
+      },
+      {
+        "ruleId": "VERIFICATION_OVERDUE",
+        "name": "Verification Overdue",
+        "score": 10,
+        "detail": "Last verification was 999 days ago"
+      }
+    ],
+    "autoActionTaken": true,
+    "resolutionNote": null,
+    "resolvedAt": null,
+    "createdAt": "2026-03-02T01:05:10.110Z",
+    "updatedAt": "2026-03-06T09:03:12.492Z"
+  },
+  {
+    "id": "cmmeo2v74428e6a92e19fcf8d",
+    "beneficiaryId": "cmmeo2v72ef5c6639759600bd",
+    "assignedToId": "cmmeo2v097973fad7f3af3b31",
+    "severity": "HIGH",
+    "status": "OPEN",
+    "fraudScore": 60,
+    "triggers": [
+      {
+        "ruleId": "LIFE_CERT_EXPIRED",
+        "name": "Life Certificate Missing",
+        "score": 20,
+        "detail": "No life certificate on record"
+      },
+      {
+        "ruleId": "AADHAAR_UNVERIFIED",
+        "name": "Aadhaar Not Verified",
+        "score": 20,
+        "detail": "Aadhaar OTP verification not completed"
+      },
+      {
+        "ruleId": "AGE_ANOMALY",
+        "name": "Age Anomaly",
+        "score": 10,
+        "detail": "Beneficiary age 105 exceeds 100"
+      },
+      {
+        "ruleId": "VERIFICATION_OVERDUE",
+        "name": "Verification Overdue",
+        "score": 10,
+        "detail": "Last verification was 999 days ago"
+      }
+    ],
+    "autoActionTaken": false,
+    "resolutionNote": null,
+    "resolvedAt": null,
+    "createdAt": "2026-02-06T18:24:33.798Z",
+    "updatedAt": "2026-03-06T09:03:12.497Z"
+  },
+  {
+    "id": "cmmeo2v75d8851b9b2b7248ea",
+    "beneficiaryId": "cmmeo2v6pdbb173761a9dd556",
+    "assignedToId": null,
+    "severity": "LOW",
+    "status": "RESOLVED",
+    "fraudScore": 79.76987617335993,
+    "triggers": [],
+    "autoActionTaken": false,
+    "resolutionNote": "Historical",
+    "resolvedAt": "2025-10-14T18:30:00.000Z",
+    "createdAt": "2025-10-14T18:30:00.000Z",
+    "updatedAt": "2025-10-14T18:30:00.000Z"
+  },
+  {
+    "id": "cmmeo2v75ec789138143c92fa",
+    "beneficiaryId": "cmmeo2v6pdbb173761a9dd556",
+    "assignedToId": null,
+    "severity": "HIGH",
+    "status": "RESOLVED",
+    "fraudScore": 55.25092249162706,
+    "triggers": [],
+    "autoActionTaken": false,
+    "resolutionNote": "Historical",
+    "resolvedAt": "2025-10-14T18:30:00.000Z",
+    "createdAt": "2025-10-14T18:30:00.000Z",
+    "updatedAt": "2025-10-14T18:30:00.000Z"
+  },
+  {
+    "id": "cmmeo2v75009285dfd93466f6",
+    "beneficiaryId": "cmmeo2v6pdbb173761a9dd556",
+    "assignedToId": null,
+    "severity": "MEDIUM",
+    "status": "RESOLVED",
+    "fraudScore": 66.27893200171732,
+    "triggers": [],
+    "autoActionTaken": false,
+    "resolutionNote": "Historical",
+    "resolvedAt": "2025-11-14T18:30:00.000Z",
+    "createdAt": "2025-11-14T18:30:00.000Z",
+    "updatedAt": "2025-11-14T18:30:00.000Z"
+  },
+  {
+    "id": "cmmeo2v75e9fc5c4d9c121fc3",
+    "beneficiaryId": "cmmeo2v6pdbb173761a9dd556",
+    "assignedToId": null,
+    "severity": "MEDIUM",
+    "status": "RESOLVED",
+    "fraudScore": 76.18535733957005,
+    "triggers": [],
+    "autoActionTaken": false,
+    "resolutionNote": "Historical",
+    "resolvedAt": "2025-11-14T18:30:00.000Z",
+    "createdAt": "2025-11-14T18:30:00.000Z",
+    "updatedAt": "2025-11-14T18:30:00.000Z"
+  },
+  {
+    "id": "cmmeo2v75eadcf7e41b90de88",
+    "beneficiaryId": "cmmeo2v6pdbb173761a9dd556",
+    "assignedToId": null,
+    "severity": "MEDIUM",
+    "status": "RESOLVED",
+    "fraudScore": 36.184344723454814,
+    "triggers": [],
+    "autoActionTaken": false,
+    "resolutionNote": "Historical",
+    "resolvedAt": "2025-12-14T18:30:00.000Z",
+    "createdAt": "2025-12-14T18:30:00.000Z",
+    "updatedAt": "2025-12-14T18:30:00.000Z"
+  },
+  {
+    "id": "cmmeo2v75c5fb59ac067a0bd7",
+    "beneficiaryId": "cmmeo2v6pdbb173761a9dd556",
+    "assignedToId": null,
+    "severity": "MEDIUM",
+    "status": "RESOLVED",
+    "fraudScore": 30.97149333471628,
+    "triggers": [],
+    "autoActionTaken": false,
+    "resolutionNote": "Historical",
+    "resolvedAt": "2025-12-14T18:30:00.000Z",
+    "createdAt": "2025-12-14T18:30:00.000Z",
+    "updatedAt": "2025-12-14T18:30:00.000Z"
+  },
+  {
+    "id": "cmmeo2v7502736aa8ec2e468e",
+    "beneficiaryId": "cmmeo2v6pdbb173761a9dd556",
+    "assignedToId": null,
+    "severity": "LOW",
+    "status": "RESOLVED",
+    "fraudScore": 50.97127031430528,
+    "triggers": [],
+    "autoActionTaken": false,
+    "resolutionNote": "Historical",
+    "resolvedAt": "2025-12-14T18:30:00.000Z",
+    "createdAt": "2025-12-14T18:30:00.000Z",
+    "updatedAt": "2025-12-14T18:30:00.000Z"
+  },
+  {
+    "id": "cmmeo2v751177831426ad0ace",
+    "beneficiaryId": "cmmeo2v6pdbb173761a9dd556",
+    "assignedToId": null,
+    "severity": "MEDIUM",
+    "status": "RESOLVED",
+    "fraudScore": 56.938113369246494,
+    "triggers": [],
+    "autoActionTaken": false,
+    "resolutionNote": "Historical",
+    "resolvedAt": "2025-12-14T18:30:00.000Z",
+    "createdAt": "2025-12-14T18:30:00.000Z",
+    "updatedAt": "2025-12-14T18:30:00.000Z"
+  },
+  {
+    "id": "cmmeo2v7585e816a091a5b986",
+    "beneficiaryId": "cmmeo2v6pdbb173761a9dd556",
+    "assignedToId": null,
+    "severity": "LOW",
+    "status": "RESOLVED",
+    "fraudScore": 63.32013204135371,
+    "triggers": [],
+    "autoActionTaken": false,
+    "resolutionNote": "Historical",
+    "resolvedAt": "2026-01-14T18:30:00.000Z",
+    "createdAt": "2026-01-14T18:30:00.000Z",
+    "updatedAt": "2026-01-14T18:30:00.000Z"
+  },
+  {
+    "id": "cmmeo2v755886c5a4eb7211f6",
+    "beneficiaryId": "cmmeo2v6pdbb173761a9dd556",
+    "assignedToId": null,
+    "severity": "MEDIUM",
+    "status": "RESOLVED",
+    "fraudScore": 57.09798621022654,
+    "triggers": [],
+    "autoActionTaken": false,
+    "resolutionNote": "Historical",
+    "resolvedAt": "2026-01-14T18:30:00.000Z",
+    "createdAt": "2026-01-14T18:30:00.000Z",
+    "updatedAt": "2026-01-14T18:30:00.000Z"
+  },
+  {
+    "id": "cmmeo2v753e4e39802f1a6873",
+    "beneficiaryId": "cmmeo2v6pdbb173761a9dd556",
+    "assignedToId": null,
+    "severity": "LOW",
+    "status": "RESOLVED",
+    "fraudScore": 59.552594570846296,
+    "triggers": [],
+    "autoActionTaken": false,
+    "resolutionNote": "Historical",
+    "resolvedAt": "2026-02-14T18:30:00.000Z",
+    "createdAt": "2026-02-14T18:30:00.000Z",
+    "updatedAt": "2026-02-14T18:30:00.000Z"
+  },
+  {
+    "id": "cmmeo2v75ba2a9027b6ecfc9e",
+    "beneficiaryId": "cmmeo2v6pdbb173761a9dd556",
+    "assignedToId": null,
+    "severity": "LOW",
+    "status": "RESOLVED",
+    "fraudScore": 65.2420953968959,
+    "triggers": [],
+    "autoActionTaken": false,
+    "resolutionNote": "Historical",
+    "resolvedAt": "2026-02-14T18:30:00.000Z",
+    "createdAt": "2026-02-14T18:30:00.000Z",
+    "updatedAt": "2026-02-14T18:30:00.000Z"
+  },
+  {
+    "id": "cmmeo2v75935696ef70714087",
+    "beneficiaryId": "cmmeo2v6pdbb173761a9dd556",
+    "assignedToId": null,
+    "severity": "LOW",
+    "status": "RESOLVED",
+    "fraudScore": 46.795780731320775,
+    "triggers": [],
+    "autoActionTaken": false,
+    "resolutionNote": "Historical",
+    "resolvedAt": "2026-03-14T18:30:00.000Z",
+    "createdAt": "2026-03-14T18:30:00.000Z",
+    "updatedAt": "2026-03-14T18:30:00.000Z"
+  },
+  {
+    "id": "cmmeo2v753201ce7f38668129",
+    "beneficiaryId": "cmmeo2v6pdbb173761a9dd556",
+    "assignedToId": null,
+    "severity": "HIGH",
+    "status": "RESOLVED",
+    "fraudScore": 51.50236840049264,
+    "triggers": [],
+    "autoActionTaken": false,
+    "resolutionNote": "Historical",
+    "resolvedAt": "2026-03-14T18:30:00.000Z",
+    "createdAt": "2026-03-14T18:30:00.000Z",
+    "updatedAt": "2026-03-14T18:30:00.000Z"
+  },
+  {
+    "id": "cmmeo88xy10218c7e70c95444",
+    "beneficiaryId": "cmmeo7ukgf895887411a9d9f9",
+    "assignedToId": null,
+    "severity": "LOW",
+    "status": "OPEN",
+    "fraudScore": 10,
+    "triggers": [
+      {
+        "ruleId": "LIFE_CERT_EXPIRED",
+        "name": "Life Certificate Pending",
+        "score": 10,
+        "detail": "Life certificate submission pending"
+      }
+    ],
+    "autoActionTaken": false,
+    "resolutionNote": null,
+    "resolvedAt": null,
+    "createdAt": "2026-03-06T09:07:23.590Z",
+    "updatedAt": "2026-03-06T09:07:23.591Z"
+  },
+  {
+    "id": "cmmeo8b37b5408c559a498d31",
+    "beneficiaryId": "cmmeo7ukgf895887411a9d9f9",
+    "assignedToId": null,
+    "severity": "LOW",
+    "status": "DISMISSED",
+    "fraudScore": 10,
+    "triggers": [
+      {
+        "ruleId": "LIFE_CERT_EXPIRED",
+        "name": "Life Certificate Pending",
+        "score": 10,
+        "detail": "Life certificate submission pending"
+      }
+    ],
+    "autoActionTaken": false,
+    "resolutionNote": null,
+    "resolvedAt": null,
+    "createdAt": "2026-03-06T09:07:26.371Z",
+    "updatedAt": "2026-03-06T09:18:46.766Z"
+  },
+  {
+    "id": "cmmeoney6dd786fd61174ed99",
+    "beneficiaryId": "cmmeo2v6pdbb173761a9dd556",
+    "assignedToId": null,
+    "severity": "LOW",
+    "status": "OPEN",
+    "fraudScore": 10,
+    "triggers": [
+      {
+        "ruleId": "VERIFICATION_OVERDUE",
+        "name": "Verification Overdue",
+        "score": 10,
+        "detail": "Last verification was 999 days ago"
+      }
+    ],
+    "autoActionTaken": false,
+    "resolutionNote": null,
+    "resolvedAt": null,
+    "createdAt": "2026-03-06T09:19:11.214Z",
+    "updatedAt": "2026-03-06T09:19:11.214Z"
+  },
+  {
+    "id": "cmmeongevbed3140f4ea2de4b",
+    "beneficiaryId": "cmmeo2v6uaa3239957f197d82",
+    "assignedToId": null,
+    "severity": "LOW",
+    "status": "OPEN",
+    "fraudScore": 10,
+    "triggers": [
+      {
+        "ruleId": "VERIFICATION_OVERDUE",
+        "name": "Verification Overdue",
+        "score": 10,
+        "detail": "Last verification was 999 days ago"
+      }
+    ],
+    "autoActionTaken": false,
+    "resolutionNote": null,
+    "resolvedAt": null,
+    "createdAt": "2026-03-06T09:19:13.111Z",
+    "updatedAt": "2026-03-06T09:19:13.111Z"
+  },
+  {
+    "id": "cmmeongyi2df808f39597ed9d",
+    "beneficiaryId": "cmmeo2v6uaa3239957f197d82",
+    "assignedToId": null,
+    "severity": "LOW",
+    "status": "OPEN",
+    "fraudScore": 10,
+    "triggers": [
+      {
+        "ruleId": "VERIFICATION_OVERDUE",
+        "name": "Verification Overdue",
+        "score": 10,
+        "detail": "Last verification was 999 days ago"
+      }
+    ],
+    "autoActionTaken": false,
+    "resolutionNote": null,
+    "resolvedAt": null,
+    "createdAt": "2026-03-06T09:19:13.818Z",
+    "updatedAt": "2026-03-06T09:19:13.818Z"
+  },
+  {
+    "id": "cmmeonh7y53a461b2ac6cda79",
+    "beneficiaryId": "cmmeo2v6uaa3239957f197d82",
+    "assignedToId": null,
+    "severity": "LOW",
+    "status": "OPEN",
+    "fraudScore": 10,
+    "triggers": [
+      {
+        "ruleId": "VERIFICATION_OVERDUE",
+        "name": "Verification Overdue",
+        "score": 10,
+        "detail": "Last verification was 999 days ago"
+      }
+    ],
+    "autoActionTaken": false,
+    "resolutionNote": null,
+    "resolvedAt": null,
+    "createdAt": "2026-03-06T09:19:14.158Z",
+    "updatedAt": "2026-03-06T09:19:14.158Z"
+  },
+  {
+    "id": "cmmeonhh7fbc9f2ebd96c95b2",
+    "beneficiaryId": "cmmeo2v6uaa3239957f197d82",
+    "assignedToId": null,
+    "severity": "LOW",
+    "status": "OPEN",
+    "fraudScore": 10,
+    "triggers": [
+      {
+        "ruleId": "VERIFICATION_OVERDUE",
+        "name": "Verification Overdue",
+        "score": 10,
+        "detail": "Last verification was 999 days ago"
+      }
+    ],
+    "autoActionTaken": false,
+    "resolutionNote": null,
+    "resolvedAt": null,
+    "createdAt": "2026-03-06T09:19:14.491Z",
+    "updatedAt": "2026-03-06T09:19:14.491Z"
+  },
+  {
+    "id": "cmmeonhrh701b57b3defae9e7",
+    "beneficiaryId": "cmmeo2v6uaa3239957f197d82",
+    "assignedToId": null,
+    "severity": "LOW",
+    "status": "OPEN",
+    "fraudScore": 10,
+    "triggers": [
+      {
+        "ruleId": "VERIFICATION_OVERDUE",
+        "name": "Verification Overdue",
+        "score": 10,
+        "detail": "Last verification was 999 days ago"
+      }
+    ],
+    "autoActionTaken": false,
+    "resolutionNote": null,
+    "resolvedAt": null,
+    "createdAt": "2026-03-06T09:19:14.861Z",
+    "updatedAt": "2026-03-06T09:19:14.861Z"
+  }
+]

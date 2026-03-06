@@ -1,0 +1,24 @@
+[
+  {
+    "id": "cmmeo2v097973fad7f3af3b31",
+    "email": "admin@ssfps.gov.in",
+    "passwordHash": "d2f6217aa2613efafc561d30e671d337:83fc0d6622e0a9f7874c762ffcd591429afefdefea8914e84528edb707561a941ec4286611422d4630d9d9920abe73cc4519d55b0d3e251da20c037229c79d51",
+    "name": "System Administrator",
+    "role": "ADMIN",
+    "isActive": true,
+    "lastLoginAt": "2026-03-06T09:20:18.432Z",
+    "createdAt": "2026-03-06T09:03:12.379Z",
+    "updatedAt": "2026-03-06T09:03:12.381Z"
+  },
+  {
+    "id": "cmmeo2v0aabab5f26ef26ef18",
+    "email": "operator@ssfps.gov.in",
+    "passwordHash": "813b1304e9be4666cf61f527fa9f72da:5642a45d2945fd368a616481f8e81745e7fced06ca0fa11be8ddf67f2867d95a0d1b9590053922887765222a214e31af04cb7cb32ba4910fd4c5b48b9ce15b6c",
+    "name": "Field Operator",
+    "role": "OPERATOR",
+    "isActive": true,
+    "lastLoginAt": "2026-03-06T09:18:18.889Z",
+    "createdAt": "2026-03-06T09:03:12.481Z",
+    "updatedAt": "2026-03-06T09:03:12.481Z"
+  }
+]
