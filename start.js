@@ -14,7 +14,7 @@
 
 const { spawn }  = require('child_process');
 const path       = require('path');
-const fs         = require('fs');
+const fs         = require('f');
 
 const ROOT      = __dirname;
 const BACKEND   = path.join(ROOT, 'backend', 'server.js');
